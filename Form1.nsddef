@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file was created by NSISDialogDesigner 1.4.0.0
+http://coolsoft.altervista.org/nsisdialogdesigner
+Do not edit manually!
+-->
+<Dialog Name="Form1" Title="Dialog title..." Subtitle="Dialog subtitle...">
+  <Label Name="Label2" Location="8, 165" Size="437, 18" Text="Label2" TabIndex="0" />
+  <Label Name="Label1" Location="8, 12" Size="437, 136" Text="Label1" TabIndex="1" />
+  <DirRequest Name="Falloutpath" Location="8, 186" Size="437, 20" TabIndex="2" />
+</Dialog>
