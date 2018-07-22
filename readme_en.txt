@@ -34,11 +34,11 @@ Supported Operating Systems are:
 
 Minimal Hardware Requirements:
 
-	Intel Pentium IV or AMD Athlon XP processor
-	256(+) MB of RAM
-	1000 MB of free hard disk space 
-	64(+) MB video card	("GeForce FX" or better)
-	512 Kbit/s internet connection (stable more or less)
+	Dualcore processor
+	1 GB of RAM
+	700 MB of free hard disk space 
+	128(+) MB video card	("GeForce FX" or better)
+	1 Mbit/s internet connection
 	Sound Card
 	Keyboard
 	Mouse
@@ -64,15 +64,16 @@ _______________________
 
 For news and the official FOnline website, visit: 
 	 
-	http://fonline2.com/
-	http://forum.fonline2.com/
-	http://wiki.fonline2.com
+	https://fonline2.com/
+	https://forum.fonline2.com/
+	https://wiki.fonline2.com
 	https://www.facebook.com/Fonline2
+  https://discord.gg/SzEDFKz
 
 For Technical Support:
 
-Web: forum.fonline2.com
-Email: FOnline2@mail.com
+  Web: https://forum.fonline2.com
+  Discord: https://discord.gg/SzEDFKz
 
 _______________________________________________________________________
  
@@ -87,5 +88,5 @@ FOnline Engine created by Cvet
 
 This software and documentation - FOnline 2 team
 
-Copyright (c) 2016 
+Copyright (c) 2018
 _______________________________________________________________________
